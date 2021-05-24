@@ -79,3 +79,8 @@ You can delete the db once you are done.
 ## Additional Information
 
 My tests seem to stay open even after finishing, I am still working on that issue.
+A try for the front-end challenge is also available in the branch "fron-end".
+Here is the link:
+```
+https://github.com/Ranime2/Fall-2021-Interview/tree/front-end
+```
